@@ -1,0 +1,176 @@
+@media only screen and (max-width:1350px){
+    .nav-list{
+        flex-direction: column;
+    }
+    .navbar{
+        height:500px;
+        flex-direction: column;
+        transition: all 0.7s ease-out;
+        width:120%;
+    }
+    .rightNav{
+    width: 45%;
+    text-align: center;
+    margin:auto
+    }
+    .box-main{
+        flex-direction: column-reverse;
+        width: 107%;
+        height:100%;
+    }
+    .section{
+        height: 1550px;
+        width: 130%;
+        flex-direction: column-reverse;
+        margin: 2px -20px;
+    }
+    .thumbnail{
+        margin: -330px 2px;
+        height:600px;
+    }
+    .first{
+        position: relative;
+        top: -60px;
+    }
+    .one{
+        position: relative;
+        top: -50px;
+    }
+    .middle{
+        height: 1300px;
+        position: relative;
+        top: -200px;
+    }
+    .two{
+        height: 2900px;
+        position: relative;
+        top: -200px;
+    }
+    .last{
+        height: 1300px;
+        position: relative;
+        top: -746px;
+    }
+    .three{
+        height: 2900px;
+        position: relative;
+        top: -746px;
+    }
+    .firstSection{
+        width:120%;
+    }
+    #search{
+        width:100%;
+    }
+    .burger{
+        display: block;
+    }
+    .line{
+        margin:5px 30px;
+    }
+    .h-nav-resp{
+        height:72px;
+        width:120%;
+    }
+    .v-class-resp{
+        opacity: 0;
+    }
+    .contact{
+        top: -1500px;
+        width:118%;
+        height: 1000px;
+    }
+    .contactinfo{
+        position: relative;
+        top: -221px;
+        left: 327px;
+    }
+    .contactForm{
+        position: relative;
+        left: 140px;
+        top: 170px;
+    }
+}
+@media only screen and (max-width: 550px){
+    .line{
+        margin:5px 100px;
+    }
+    .firstHalf{
+        position: relative;
+        left: -70px;
+    }
+    .secondHalf img{
+        position: relative;
+        left: -120px;
+    }
+    .nav-list{
+        position: relative;
+        left: -70px;
+        margin: 16px;
+    }
+    .rightNav{
+        position: relative;
+        left: -75px;
+    }
+    .first{
+        position: relative;
+        top: 100px;
+        left: -55px;
+    }
+    .one{
+        position: relative;
+        top: -20px;
+        left: -55px;
+    }
+    .middle{
+        height: 1300px;
+        position: relative;
+        top: -30px;
+        left: -55px;
+    }
+    .two{
+        height: 2900px;
+        position: relative;
+        top: -160px;
+        left: -55px;
+    }
+    .last{
+        height: 1300px;
+        position: relative;
+        top: -490px;
+        left: -55px;
+    }
+    .three{
+        height: 2900px;
+        position: relative;
+        top: -620px;
+        left: -55px;
+    }
+    .imgFluid{
+        height: 200px;
+        width: 300px;
+    }
+    .contact{
+        top: -1170px;
+        width:100%;
+    }
+    .contactForm{
+        position: relative;
+        left: 197px;
+        top: 170px;
+    }
+    .copyRight{
+        position: relative;
+        top: -1210px;
+    }
+    .copyRight p{
+        font-size: 14px;
+    position: relative;
+    left: 10%;
+    padding: 13px 0px;
+    }
+    .w150{
+        position: relative;
+        left: -60px;
+    }
+}
